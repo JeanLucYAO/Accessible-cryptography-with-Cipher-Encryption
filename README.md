@@ -41,9 +41,9 @@ P(x) is x position in the alphabet
 
 :key: Clone the files and basically put them in the same folder;
 
-:key: Check all [requirements](https://gitlab.com/jean3v16luc2v14/cipher-encryption#requirements) on the packages used;
+:key: Check all requirements on the packages used;
 
-:key: Run [cipher_main.py](https://gitlab.com/jean3v16luc2v14/cipher-encryption/-/blob/main/cipher_main.py) with [python 3.9](https://www.python.org/downloads/) or version around.
+:key: Run [cipher_main.py](https://github.com/JeanLucYAO/Accessible-cryptography-with-Cipher-Encryption/blob/main/cipher_main.py) with [python 3.9](https://www.python.org/downloads/) or version around.
 
 You should obtain something like this
 
@@ -61,8 +61,8 @@ title="Cipher App"></img>
 
 ## Editing files
 
-:key: You can make changes to [main.ui](https://gitlab.com/jean3v16luc2v14/cipher-encryption/-/blob/main/main.ui) by using [Qt Designer](https://build-system.fman.io/qt-designer-download)
+:key: You can make changes to [main.ui](https://github.com/JeanLucYAO/Accessible-cryptography-with-Cipher-Encryption/blob/main/main.ui) by using [Qt Designer](https://build-system.fman.io/qt-designer-download)
 
-:key: Just pick your favourite text editor for [cipher_main.py](https://gitlab.com/jean3v16luc2v14/cipher-encryption/-/blob/main/cipher_main.py). Only make sure you are using python 3.
+:key: Just pick your favourite text editor for [cipher_main.py](https://github.com/JeanLucYAO/Accessible-cryptography-with-Cipher-Encryption/blob/main/cipher_main.py). Only make sure you are using python 3.
 
 
